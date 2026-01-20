@@ -1,0 +1,7 @@
+<group name="custom_rules,">
+  <rule id="100010" level="12">
+    <if_matched_sid>5716</if_matched_sid>
+    <description>SSH brute force attack detected</description>
+    <mitre>T1110</mitre>
+  </rule>
+</group>
