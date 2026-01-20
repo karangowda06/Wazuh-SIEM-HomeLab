@@ -1,0 +1,6 @@
+<group name="authentication,">
+  <rule id="100011" level="12">
+    <description>Multiple failed SSH login attempts</description>
+    <mitre>T1110</mitre>
+  </rule>
+</group>
